@@ -1,0 +1,77 @@
+body{
+	background: #D0CCD0;
+	line-height: 1.6em;
+	font-size: 16px;
+	font-family: Arial,Helvetica,sans-serif;
+	margin: 0;
+}
+.container{
+margin:auto;
+width: 80%;
+overflow: hidden;
+}
+#main-header{
+	background-color: #B098A4;
+	color: #fff;
+	left: 15px;
+}
+#navbar{
+	background-color: #310A31;
+
+}
+#navbar ul{
+	padding:0;
+
+}
+#navbar li{
+	list-style: none;
+	color: #f4f4f4;
+	display: inline;
+	padding-right: 5px;
+}
+#navbar a{
+	color: #f4f4f4;
+	text-decoration: none;
+}
+#navbar a:hover{
+	color: #F1BF98;
+}
+#showcase{
+height: 450px;
+background-image:url('../lan/yoksa.jpg');
+background-position: center bottom;
+margin-bottom: 10px;
+}
+#showcase h1{
+	font-size: 35px;
+	text-align:center;
+	padding-top: 55px;
+	line-height: 1.6em;
+	color: #fff;
+}
+#main{
+	float: left;
+	width: 70%;
+}
+#sidebar{
+	float: right;
+	width: 30%;
+
+}
+#main-footer{
+	text-align: center;
+	width: 100%;
+	background: #B098A4;
+	margin-top: 200px;
+	padding: 12px;
+}
+.box-1{
+	float: left;
+	width: 33%;
+	margin-top: 5px;
+	margin-bottom: 20px;
+	padding-bottom: 25px;
+}
+
+
+
